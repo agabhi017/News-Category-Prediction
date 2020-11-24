@@ -1,4 +1,4 @@
-# News Category Prediction Chalenge
+# News Category Prediction Challenge
 
 ## Problem Overview
 From the beginning, since the first printed newspaper, every news that makes into a page has had a specific section allotted to it. 
