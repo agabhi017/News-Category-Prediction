@@ -13,3 +13,6 @@ as follows : Politics: 0 Technology: 1 Entertainment: 2 Business: 3
 
 ## Evaluation
 The leaderboard is evaluated on the standard accuracy_score metric from sklearn
+
+## Leaderboard Score
+As of 06/09/2019, I achieved a maximum accuracy score of 97.234%
