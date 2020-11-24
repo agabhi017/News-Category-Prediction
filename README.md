@@ -10,3 +10,6 @@ use Natural Language Processing to predict which genre or category a piece of ne
 Size of test set: 2,748 records FEATURES: STORY:  A part of the main content of the article to be published as a piece of news. 
 SECTION: The genre/category the STORY falls in. There are four distinct sections where each story may fall in to. The Sections are labelled 
 as follows : Politics: 0 Technology: 1 Entertainment: 2 Business: 3
+
+## Evaluation
+The leaderboard is evaluated on the standard accuracy_score metric from sklearn
